@@ -15,15 +15,15 @@ Recommender systems are integral to platforms like Netflix and Crunchyroll, driv
 
 **User-Based Collaborative Filtering:** 
 
-        Recommends based on similarities between users.
+Recommends based on similarities between users.
 
 **Item-Based Collaborative Filtering:** 
 
-        Suggests items similar to those the user already likes.
+Suggests items similar to those the user already likes.
 
 **Content-Based Filtering:** 
 
-        Uses metadata like genre, theme, and ratings.
+Uses metadata like genre, theme, and ratings.
 
 2.**Compare the effectiveness of each approach.**
 
